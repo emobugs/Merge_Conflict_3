@@ -1,5 +1,5 @@
 {
-  "name": "git-basics",
+  "name": "git-task-ooo",
   "version": "1.0.0",
   "description": "A boilerplate for the Git Basics course in Booost",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/booost/boilerplates/git-basics.git"
+    "url": "git+https://gitlab.com/booost/boilerplates/git-task-ooo.git"
   },
   "author": "Association Booost",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/booost/boilerplates/git-basics/issues"
+    "url": "https://gitlab.com/booost/boilerplates/git-task/issues"
   },
-  "homepage": "https://gitlab.com/booost/boilerplates/git-basics#readme"
+  "homepage": "https://gitlab.com/booost/boilerplates/git-task#readme"
 }
